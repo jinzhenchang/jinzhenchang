@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jinzhenchang
 - 👀 I’m interested in finance trading
-- 🌱 I’m currently learning python on quantative research
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python on quantative financial research
+- 💞️ I’m looking to collaborate on python quantative trading a
 - 📫 How to reach me ...
 
 <!---
